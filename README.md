@@ -1,0 +1,2 @@
+This project is basically a mobile job search application that is used to find jobs that are taken from a Job Search API.
+If anyone wants to improve the codebase feel free to do so, an improvement to the design and function of the app would be much appreciated!
